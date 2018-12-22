@@ -1,5 +1,5 @@
 # 33-js-concepts
-Personal notes from reading: [GitHub - leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts)
+Personal notes from reading: [leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts)
 
 ## 1. Call Stack
 * A list of function invocations.  Last in, First Out.
